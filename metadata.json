@@ -1,0 +1,6 @@
+{
+  "name": "Warehouse Operations - Staff Performance & Incentive Dashboard",
+  "description": "Professional Warehouse Operations, Labor Management & Incentive Dashboard featuring real-time KPIs, staff achievement analytics, shift benchmarking, and SAP EWM activity tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
